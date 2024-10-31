@@ -1,0 +1,25 @@
+
+
+/* Size-Card-Img */
+
+
+.card-img-top {
+    width: 100%; /* Lățimea imaginii să fie 100% din card */
+    height: 200px; /* Înălțimea fixă pentru toate imaginile */
+    object-fit: cover; /* Acest stil asigură că imaginea se va ajusta corespunzător */
+  }
+  
+
+
+  /* Hover Link */
+
+
+  .nav-link {
+    transition: color 0.3s, background-color 0.3s; /* Animare pentru tranziție */
+  }
+  
+  .nav-link:hover {
+    color: #fff; /* Culoarea textului la hover */
+    background-color: #6cb2ec; /* Culoarea fundalului la hover */
+  }
+  
