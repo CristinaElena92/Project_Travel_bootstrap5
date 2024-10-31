@@ -1,7 +1,7 @@
 const MainContent = () => {
     return (
       <div className="container">
-<h1 className="text-center p-5 mb-5 mt-5">Tour Romania Today!</h1>
+<h1 className="text-center p-5 mb-5 mt-5">Tour Romania!</h1>
 <div className="bg-dark text-light p-5 mt-2 mb-2 flex-fill">
           <p>
             Authentic, Natural and Cultural are the words that best capture the essence of Romania,
